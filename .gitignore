@@ -1,0 +1,15 @@
+# Compiled Java files
+out/
+*.class
+
+# Local application data
+*.ser
+pharmacy-data.ser
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
